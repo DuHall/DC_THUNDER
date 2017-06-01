@@ -1,0 +1,16 @@
+﻿1	Lake Norman Lightning 05	Huntersville, NC	2.0	2.0	2	10	Team Page
+2	Mint Hill Heat 2005	Mint Hill, NC	4.0	3.0	9	7	Team Page
+3	Diamond Stars	Concord, NC	0.0	4.0	18	2	Team Page
+4	Outlaws	Weddington, NC	3.5	2.5	1	13	Team Page
+5	Lady Bandits Purple	Concord, NC	0.0	4.0	15	5	Team Page
+6	Carolina Force - Mitchell	Kannapolis, NC	2.0	3.0	7	5	Team Page
+7	Charlotte Rage	Charlotte, NC	2.0	3.0	10	9	Team Page
+8	MARA Mustangs 12U-Williams	Matthews, NC	2.0	4.0	15	10	Team Page
+9	USA Pride Fastpitch	Burlington, NC	2.0	2.0	7	13	Team Page
+10	Lady Lightning Select Sutton	Alamance County, NC	4.0	3.0	13	13	Team Page
+11	DC Thunder	High Point, NC	5.0	1.0	4	11	Team Page
+12	Catawba Valley Storm	Granite Falls, NC	4.0	2.0	1	6	Team Page
+13	Cowgirls	Ansonville, NC	3.0	2.0	3	8	Team Page
+14	Sudden Impact NC	Stokesdale, NC	5.5	2.5	3	2	Team Page
+15	FCASC-Weaver	Lamar, SC	1.0	4.0	15	3	Team Page
+16	LA Elite	Lancaster, SC	5.0	3.0	8	14	Team Page
